@@ -11,6 +11,7 @@
     "static/development/_ssgManifest.js"
   ],
   "rootMainFiles": [],
+  "rootMainFilesTree": {},
   "pages": {
     "/": [
       "static/chunks/webpack.js",
@@ -27,6 +28,11 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
+    "/answerResult": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/answerResult.js"
+    ],
     "/categorySelection": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
@@ -36,16 +42,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/questionPage.js"
-    ],
-    "/resultPage": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/resultPage.js"
-    ],
-    "/testSelection": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/testSelection.js"
     ]
   },
   "ampFirstPages": []
