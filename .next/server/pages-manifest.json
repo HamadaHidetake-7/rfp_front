@@ -2,9 +2,9 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/questions": "pages/questions.js",
-  "/questionPage": "pages/questionPage.js",
   "/resultPage": "pages/resultPage.js",
   "/": "pages/index.js",
-  "/testSelection": "pages/testSelection.js"
+  "/questionPage": "pages/questionPage.js",
+  "/testSelection": "pages/testSelection.js",
+  "/categorySelection": "pages/categorySelection.js"
 }
